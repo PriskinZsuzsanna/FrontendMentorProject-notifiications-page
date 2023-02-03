@@ -160,7 +160,7 @@ span.group-name {
     background: var(--light-grayish-blue-1);
 }
 
-
+/*
 footer {
     position: fixed;
     bottom: 0;
@@ -177,20 +177,20 @@ footer {
     color: var(--blue);
     font-weight: 800;
     text-decoration: none;
-}
+}*/
 
 @media  screen and (min-width: 600px) {
 
     body {
-        background: var(--light-grayish-blue-2);
+        background: var(--very-light-grayish-blue);
     }
     .container {
         width: 90%;
         border-radius: 10px;
     }
-
+    /*
     footer {
         background: var(--white);
-    }
+    }*/
 }
   
