@@ -29,6 +29,8 @@ Users should be able to:
 
 
 ### Links
+https://priskinzsuzsanna.github.io/FrontendMentorProject-notifiications-page/
+
 
 ## My process
 
