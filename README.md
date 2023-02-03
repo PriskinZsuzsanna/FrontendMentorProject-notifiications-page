@@ -10,7 +10,6 @@ This is a solution to the [Notifications page challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 
@@ -26,8 +25,12 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+![Screenshot](https://user-images.githubusercontent.com/121173949/212568478-3bf9d738-d194-4026-9165-fbdbeee47455.png)
+
 
 ### Links
+https://priskinzsuzsanna.github.io/FrontendMentorProject-notifiications-page/
+
 
 ## My process
 
